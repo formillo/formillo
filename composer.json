@@ -16,5 +16,12 @@
             "email": "lamka02sk@samuelillo.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "pestphp/pest": "^1.22"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
 }
