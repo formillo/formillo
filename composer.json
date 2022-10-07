@@ -1,0 +1,20 @@
+{
+    "name": "lamka02sk/formillo",
+    "description": "Framework agnostic form generation and processing library for your next PHP project",
+    "type": "library",
+    "license": "MPL-2.0 license",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Lamka02sk\\Formillo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lamka02sk",
+            "email": "lamka02sk@samuelillo.com"
+        }
+    ],
+    "require": {}
+}
